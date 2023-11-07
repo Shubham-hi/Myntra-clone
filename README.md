@@ -1,3 +1,3 @@
 # Myntra-clone
 
-# CLick here --> [Live Project Link](https://myntrcln.netlify.app) 
+# Click here --> [Live Project Link](https://myntrcln.netlify.app)🔗 
